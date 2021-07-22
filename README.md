@@ -2,3 +2,4 @@
 
 - 대회안내 : https://dacon.io/competitions/official/235744/overview/description
 - baseline : https://dacon.io/competitions/official/235744/codeshare/2848?page=1&dtype=recent
+- My code : [Code Link](https://github.com/threegenie/climate_classify/blob/main/climate_labeling_nlp.ipynb)
